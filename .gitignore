@@ -71,7 +71,7 @@ tmp/
 out-tsc/
 bazel-out/
 
-**node_modules
+# **node_modules
 # Node
 node_modules/
 npm-debug.log
